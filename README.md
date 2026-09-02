@@ -1,4 +1,4 @@
-![GitHub Banner](https://raw.githubusercontent.com/mdSaifurRahman25/mdSaifurRahman25/main/github-banner.png)
+![GitHub Banner](https://github.com/mdSaifurRahman25/mdSaifurRahman25/blob/main/github-banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Md. Saifur Rahman</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh.</h3>
