@@ -41,6 +41,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsaifurrahman25&show_icons=true&locale=en&layout=compact" alt="mdsaifurrahman25" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsaifurrahman25&show_icons=true&locale=en" alt="mdsaifurrahman25" /></p>
+<p align="center">
+  <a href="https://github.com/mdSaifurRahman25">
+    <img src="https://github-readme-stats.vercel.app/api?username=mdsaifurrahman25&show_icons=true&locale=en" alt="Md Saifur Rahman's GitHub Stats" />
+  </a>
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsaifurrahman25&" alt="mdsaifurrahman25" /></p>
