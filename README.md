@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md. Saifur Rahman</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh.</h3>
 
-- 🔭 I’m currently working on **AI-powered YouTube Thumbnail Generator** !(https://github.com/mdSaifurRahman25/Tubers-Planet-website)
+- 🔭 I’m currently working on **AI-powered YouTube Thumbnail Generator** !(https://github.com/mdSaifurRahman25/Tubers-Planet-website) [AI powered YouTube Thumbnail](https://github.com/mdSaifurRahman25/Tubers-Planet-website/)
 
 - 🌱 I’m currently learning **MERN stack and DevOps**
 
